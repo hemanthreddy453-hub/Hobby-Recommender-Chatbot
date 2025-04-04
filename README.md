@@ -34,7 +34,7 @@ Libraries and Tools:
 
 5.	Revision Tracking on GitHub
 •	Repository Name: Hobby Recommender Chatbot
-•	GitHub Link: https://github.com/nithinponnuru29/Hobby-Recommender-Chatbot/tree/main
+•	GitHub Link: (https://github.com/hemanthreddy453-hub/Hobby-Recommender-Chatbot/tree/main)
 •	LinkedIn: https://www.linkedin.com/in/hemanth-reddy-baddam-257154299/
 6.	Conclusion and Future Scope: 
 The Hobby Recommender Chatbot serves as a simple yet effective way to discover new hobbies based on user interests. The current version is a prototype with basic features, while future versions may include user authentication, personalized recommendations, and a more advanced AI-based recommendation engine.
